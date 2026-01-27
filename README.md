@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository documents the application of statistical learning methods to three distinct real-world problems: regression, classification, and clustering. The objective was to implement an end-to-end machine learning pipeline for each task—covering data preprocessing, exploratory analysis, model selection, and performance evaluation.
+This repository documents the application of statistical learning methods to three distinct real-world problems: regression, classification, and clustering. The objective was to implement an end-to-end machine learning pipeline for each task covering data preprocessing, exploratory analysis, model selection, and performance evaluation.
 
 ## Repository Structure
 
